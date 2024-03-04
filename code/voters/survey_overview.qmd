@@ -1,0 +1,75 @@
+---
+title: "Survey Overview"
+format: pdf
+editor: visual
+include-in-header: 
+  text:
+    \usepackage{lscape}
+        \newcommand{\blandscape}{\begin{landscape}}
+        \newcommand{\elandscape}{\end{landscape}}
+    \renewcommand{\abstractname}{Abstract}
+---
+
+## Batteries on Liberal Democracy
+
+-   The EES that van der Brug et al (2021) used, unfortunately, only included the battery of question on liberal democracy in 2019 but not in their 2014 survey.
+
+-   In general, batteries on liberal democracy were only asked once the FPÖ was already in government.
+
+    -   Would we expect that support for separation of powers & minority rights among populist voters increases again once the FPÖ leaves government?
+
+    -   Unfortunately, these batteries never ask the same question. While in office the question relating closest to judicial review included were:
+
+        **Special Eurobarometer 91.3**: The decisions by public authorities for example on taxes, pension, public contracts, education or healthcare can be reviewed by an independent court.
+
+        **Austrian Election Study Wave 8:** The courts should be able to stop the government acting beyond its authority.
+
+        **EES**: Independent judges should be able to overrule the decisions of democratically elected government if the decisions violate the rights of individuals or groups in society.
+
+    -   After the government including the FPÖ, these were the questions closest to the topic of judicial review:
+
+        **Special Eurobarometer 94.1**: Judges should be independent and be not under the influence of others.
+
+        **European Social Survey:** How acceptable for you would it be for \[country\] to have a strong leader28 who is above the law?
+
+{{< pagebreak >}}
+
+\blandscape
+
+![Overview of Survey Including Questions on Judicial System / Judicial Review / Constitutional Court in Autria.](overview.pdf)
+
+\elandscape
+
+{{< pagebreak >}}
+
+## Long-Term Data
+
+-   The most consistent long-term data comes from the Flash Eurobarometer. It asks about the perceived independence of the country's judiciary. It's been asked since 2017 once a year, always in January.
+
+    -   Issue: No information on voting behavior included. Unfortunately not even left-right position.
+
+    -   I'm not super sure what we would expect here since the courts did succesfully fight back against the FPÖ-ÖVP government. Ideally, the courts should have been perceived just as independent as before.
+
+-   The Austrian National Election Study always happens pre- and post-elections and frequently includes a question on the trust in the constitutional court (the specific institution, not the judiciary/legal system in general).
+
+    -   Across all waves that included an item on trust in the Austrian Constitutional Court, the trust was way lower among FPÖ voters than mainstream voters (see figure 2).
+
+    -   Wave 3 was conducted when it was already obvious that the FPÖ had a chance to get into government, wave 6 after the FPÖ entered government. In these waves the support increased - possibly in anticipation of the government's impact on the judicial system? Wave 11 does not align with this interpretation though since trust increased once again in this wave (this really puzzles me so far - all other waves are in line with our expectation). Compared to the wave ahead, the trust decreased once again after core policies of the ÖVP-FPÖ government were invalidated ahead of wave 13.
+
+![Trust in the Austrian Constitutional Court among FPÖ voters.](fpoe_trust_likert.pdf){fig-align="center"}
+
+![Trust in the Austrian Constitutional Court among voters of different parties.](trust.pdf)
+
+{{< pagebreak >}}
+
+-   The most interesting question is included in wave 8 which was conducted while the ÖVP-FPÖ government. The question asked: The courts should be able to stop the government acting beyond its authority. The support for this is lager among supporters of the government parties, with the FPÖ voters being the most critical of judicial review. Unfortunately, I could not find data for this question before or after the FPÖ-ÖVP government so far - this is where I would really expect an effect.'
+
+![Support for Judicial Review among FPÖ Voters.](judicial_review.pdf)
+
+## Judicial Review Timing
+
+-   Unfortunately, none of the judicial review decisions were published at the time of a survey.
+
+-   The Austrian Election Study fielded a survey before and after the most significant judicial review decisions on right-wing populist issues in the end of 2019.
+
+## 
